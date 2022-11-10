@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/%7Bportfolio%7D/static/css/main.4ac737fe.css",
+    "main.js": "/%7Bportfolio%7D/static/js/main.2e570f24.js",
+    "static/js/787.fe095bdd.chunk.js": "/%7Bportfolio%7D/static/js/787.fe095bdd.chunk.js",
+    "static/media/info.jpg": "/%7Bportfolio%7D/static/media/info.630fa9042e96b47fb6d5.jpg",
+    "static/media/shopping.jpg": "/%7Bportfolio%7D/static/media/shopping.103ab52e1343131160fe.jpg",
+    "static/media/mathilda_s.JPG": "/%7Bportfolio%7D/static/media/mathilda_s.ce39100d4dde9b8c637b.JPG",
+    "static/media/kandidat.jpg": "/%7Bportfolio%7D/static/media/kandidat.ea29cb5d1b37a6827978.jpg",
+    "static/media/fulvinet.jpg": "/%7Bportfolio%7D/static/media/fulvinet.02aeec2c0829295ac3f5.jpg",
+    "static/media/mos.jpg": "/%7Bportfolio%7D/static/media/mos.164ba4fd5ed1c3468aa2.jpg",
+    "index.html": "/%7Bportfolio%7D/index.html",
+    "main.4ac737fe.css.map": "/%7Bportfolio%7D/static/css/main.4ac737fe.css.map",
+    "main.2e570f24.js.map": "/%7Bportfolio%7D/static/js/main.2e570f24.js.map",
+    "787.fe095bdd.chunk.js.map": "/%7Bportfolio%7D/static/js/787.fe095bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac737fe.css",
+    "static/js/main.2e570f24.js"
+  ]
+}
