@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+.navbar{
+width: 90vw;
+position: fixed;
+border-radius: 20px;
+background-color: #b5be9f;
+opacity: 90%;
+top: 5px;
+height: 60px;
+display: flex;
+justify-content: space-evenly;
+align-content: center;
+align-items: center;
+font-weight: 900;
+font-family: 'Lato', sans-serif;
+box-shadow:  7px 7px 12px #98a086,
+             -7px -7px 12px #e4f0c8;
+
+}
+
+a.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.Mui-selected.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+    color: #587569;
+ 
+}
+
+a.MuiButtonBase-root.MuiTab-root.MuiTab-textColorPrimary.css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.css-8atqhb {
+    width: 100%;
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 12px;
+}
+
+span.MuiTabs-indicator.css-1aquho2-MuiTabs-indicator{
+    background-color: #587569;
+    height: 4px;
+    border-radius: 10px;
+}
+
+.MuiTabs-flexContainer.css-heg063-MuiTabs-flexContainer{
+    justify-content: space-evenly;
+    
+ box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+}
+
+.header{
+    display: flex;
+    position: fixed;
+    top: 5px;
+    width: 100vw;
+    justify-content: center;
+}
+
+.nav{
+position: relative;
+margin: 0 20px;
+display: flex;
+}
+
+.link{
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 25px;
+color: grey;
+}
+
+.active{
+color: #D3DCD9;
+}
+
+
+
+
+
+.motion_slider{
+    height: 5px;
+    width: 100px;
+    background-color: pink;
+    display: block;
+    bottom: -35px;
+    position: absolute;
+    border-radius: 25px;
+}

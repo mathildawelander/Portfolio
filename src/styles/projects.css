@@ -1,0 +1,54 @@
+.div_box{
+ width: 35%;
+ display: flex;
+ flex-direction: column;
+ margin-bottom: 10px;
+ align-items: center;
+ justify-content: space-evenly;
+ border-radius: 5px;
+ 
+ background-color: #f1f1f1;   
+ box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.css-1oqqzyl-MuiContainer-root {
+    
+    
+    margin-top: 30px;}
+
+.div_body{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin: 10px 0px 0px 0px;
+}
+
+.title{
+font-size: 25px;
+margin: 5px 0 10px 0px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.titles{
+    font-size: 25px;
+    margin: 10px 0 15px 0px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 900;
+        text-align: center;
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+
+.image_box{
+    width: 100%;
+border: 1px solid rgb(126, 124, 124);
+}
+.text_box{
+    font-size: 16px;
+    margin: 5px 10px 10px 10px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}

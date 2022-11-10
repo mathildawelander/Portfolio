@@ -1,0 +1,136 @@
+.resume_div{
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 160px;
+}
+
+.left_div{
+    background-color: #f1f1f1;
+    width: 55%;
+    margin: 0px 0px 0px 0px;
+border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.right_div{
+    background-color: #f1f1f1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    border-radius: 5px;
+ box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.title_resume{
+font-size: 25px;
+margin: 5px 0 5px 0px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+.text_resume{
+    font-size: 15px;
+    text-align: center;
+    margin: 0px 0 10px 0px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 800;
+    
+}
+
+.skil_level{
+    background: rgb(217,223,221);
+background: linear-gradient(90deg, rgba(217,223,221,1) 0%, 
+rgba(151,189,170,1
+) 52%, rgba(84,112,100,1) 100%);
+width: 90%;
+position: center;
+height: 25px;
+margin-top: 5px;
+border: 2px solid white;
+
+margin-bottom: 5px;
+}
+
+
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.skils{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+}
+
+.MuiChip-root.MuiChip-filled.MuiChip-sizeMedium.MuiChip-colorDefault.MuiChip-filledDefault.css-gac2fo-MuiChip-root{
+    margin-bottom: 5px;
+    margin-left: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-right: 2px;
+    font-size: 15px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    border: 2px solid white;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.resume_label{
+
+    font-family: 'Lato', sans-serif;
+    margin: 10px 0px 3px 0px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.resume_employee{
+    font-family: 'Lato', sans-serif;
+    margin: 10px 0 5px 0px;
+    font-size: 19px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.resume_time{
+    font-family: 'Lato', sans-serif;
+    margin: 0px 0 3px 0px;
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(88, 88, 88);
+}
+
+.resume_description{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin: 0px 0 3px 0px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.div_step{
+    margin-left: 20px;
+    
+}
+
+.div_step_h1{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.div_step_h1_two{
+    margin-left: 10px;
+margin-top: 20px;
+}

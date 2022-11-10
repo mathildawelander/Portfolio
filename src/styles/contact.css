@@ -1,0 +1,33 @@
+.div_body_c{
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 160px;
+}
+
+.div_box_c{
+    
+ justify-content: space-between;
+ border-radius: 5px;
+ 
+ background-color: #f1f1f1;   
+ box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+}
+
+.div_info_c{
+    margin: 5px 5px 15px 5px;
+    font-size: 19px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    display: flex;
+}
+
+.box_margin{
+    margin: 5vw;
+}
+.p_c{
+    margin:0px 0px 0px 10px;
+}
