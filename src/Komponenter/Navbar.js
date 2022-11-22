@@ -53,13 +53,13 @@ function Router(props) {
     // This means that if you have nested routes like:
     // users, users/new, users/edit.
     // Then the order should be ['users/add', 'users/edit', 'users'].
-    const routeMatch = useRouteMatch(['/', '/Master', '/projects', '/contact']);
+    const routeMatch = useRouteMatch(['/Portfolio', '/Master', '/projects', '/contact']);
     const currentTab = routeMatch?.pattern?.path;
   
     return (
       <Tabs value={currentTab}>
        
-        <Tab classname="activetab" label="About" value="/" to="/" component={Link} />
+        <Tab classname="activetab" label="About" value="/Portfolio" to="/Portfolio" component={Link} />
         
         <Tab label="Master"  value="/Master" to="/Master" component={Link} />
         <Tab label="Projects"value="/projects"  to="/projects" component={Link} />
